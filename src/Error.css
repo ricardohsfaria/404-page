@@ -1,0 +1,81 @@
+.error-component {
+  background-color: #ffdbe1;
+  margin: 0 40px 20px 40px;
+  height: 95vh;
+}
+
+.main-content-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.oops {
+  color: #384259;
+  font-size: 4rem;
+  margin-bottom: -15px;
+}
+
+.page-not-found {
+  color: #565F73;
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: -15px;
+}
+
+.please-go-back {
+  color: #858585;
+  font-weight: 800;
+}
+
+.error-container {
+  margin-left: 50px;
+}
+
+.button {
+  background-color: #F73859;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 50px;
+  width: 22rem;
+  height: 3rem;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.art-container {
+  margin: 70px 50px 0 0;
+}
+
+.art-text {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin-left: 180px;
+  bottom: 350px;
+}
+
+.art-title {
+  color: #F73859;
+  font-size: 5rem;
+}
+
+.art-subtitle {
+  color: #F73859;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-top: -70px;
+}
+
+.plug-art {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-select: none;
+}

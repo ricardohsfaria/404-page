@@ -1,0 +1,31 @@
+.header-container {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.error-logo, .bars-container {
+  align-items: center;
+  color: #f73859;
+  display: flex;
+}
+
+.bars-icon {
+  cursor: pointer;
+}
+
+.menu-item {
+  padding: 0 40px;
+}
+
+.menu-text {
+  color: #384259;
+  font-weight: 500;
+}
+
