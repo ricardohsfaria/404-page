@@ -10,7 +10,7 @@ function Error() {
         <div className="error-container">
           <h1 className="oops">Ooops...</h1>
           <h3 className="page-not-found">Page Not Found</h3>
-          <h4 className="please-go-back">Pease Go Back</h4>
+          <h4 className="please-go-back">Please Go Back</h4>
           <div><button className="button">Go Back</button></div>
         </div>
         <div className="art-container">
